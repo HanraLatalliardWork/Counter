@@ -1,6 +1,0 @@
-<!--To do:
-Get Ip,
-Get comp name
-Get all info possible on connected user
-Store info somewhere
--->
