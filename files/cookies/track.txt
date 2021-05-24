@@ -1,0 +1,17 @@
+ip
+ipv6
+MAC addresse
+ISP
+comp name
+day
+time
+arrival time
+leave time
+zip code
+street
+road
+house
+Region
+country
+geographical position
+Phone or comp
